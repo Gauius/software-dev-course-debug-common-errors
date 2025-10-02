@@ -78,4 +78,4 @@ function isPrime(num) {
   }
   return true; // Should find no divisor.
 }
-console.log(isPrime(7)); // Expected true but gets false
+console.log(isPrime(7)); // Expected true and gets true
